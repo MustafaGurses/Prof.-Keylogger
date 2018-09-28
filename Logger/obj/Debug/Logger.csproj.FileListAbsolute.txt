@@ -1,0 +1,9 @@
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\obj\Debug\Logger.Form1.resources
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\obj\Debug\Logger.Properties.Resources.resources
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\VAIO\Documents\Visual Studio 2015\Projects\Logger\Logger\obj\Debug\Logger.pdb
